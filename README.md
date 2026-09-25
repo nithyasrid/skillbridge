@@ -1,6 +1,6 @@
 # SkillBridge MVP
 
-Turn student projects into proof of skill.**
+Turn student projects into proof of skill.
 
 DEMO:
 
