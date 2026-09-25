@@ -2,6 +2,10 @@
 
 Turn student projects into proof of skill.**
 
+DEMO:
+
+https://sprightly-paprenjak-8953e4.netlify.app/
+
 SkillBridge is an education innovation platform that transforms college projects into **evidence-backed skill portfolios**. Instead of showing recruiters only a resume, project title, and GitHub link, SkillBridge connects each claimed skill to evidence from the project.
 
  🎯 Problem
