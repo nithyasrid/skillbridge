@@ -1,13 +1,10 @@
 # SkillBridge MVP
 
-````markdown
-# SkillBridge 
-
-> **Turn student projects into proof of skill.**
+Turn student projects into proof of skill.**
 
 SkillBridge is an education innovation platform that transforms college projects into **evidence-backed skill portfolios**. Instead of showing recruiters only a resume, project title, and GitHub link, SkillBridge connects each claimed skill to evidence from the project.
 
-## 🎯 Problem
+ 🎯 Problem
 
 Students build many projects during college, but recruiters often cannot clearly understand:
 
@@ -18,19 +15,19 @@ Students build many projects during college, but recruiters often cannot clearly
 
 A project usually becomes:
 
-**Project → GitHub Link → Resume Bullet**
+Project → GitHub Link → Resume Bullet
 
 SkillBridge changes this into:
 
-**Project → Evidence → Skill Map → Skill Passport**
+Project → Evidence → Skill Map → Skill Passport
 
-## 💡 Solution
+💡 Solution
 
-SkillBridge analyzes a student's project and creates a structured **Skill Passport**.
+SkillBridge analyzes a student's project and creates a structured Skill Passport.
 
-### Core Flow
+ Core Flow
 
-```text
+
 Student Project
        ↓
 Project Analysis
@@ -44,7 +41,7 @@ Skill Assessment
 Skill Passport
        ↓
 Recruiter View
-````
+
 
 ## ✨ Key Features
 
